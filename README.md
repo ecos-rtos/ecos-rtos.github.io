@@ -2,7 +2,7 @@
 
 This is an unofficial migration of eCos from [http://ecos.sourceware.org/](http://ecos.sourceware.org/) to GitHub, mainly intended to have the old CVS repository as a [Git repository](https://github.com/ecos-rtos/ecos).
 
-At some point, the eCos developers decided to run their own private company, eCosCentric, and even bought the eCos Trademark and eCos Logo from FSF. The open source project has remained stale since 2015, due to to be the difficulty in supporting very diverged source code base for numerous platforms by very small team. Nonetheless, eCos is a great development and deserves more appreciation from the community. The [ecos-rtos](https://github.com/ecos-rtos) GitHub
+At some point, the eCos developers decided to run their own private company, eCosCentric, and even bought the eCos Trademark and eCos Logo from FSF. The open source project has remained stale since 2015, due to the difficulty in supporting very diverged source code base for numerous platforms by very small team. Nonetheless, eCos is a great development and deserves more appreciation from the community. The [ecos-rtos](https://github.com/ecos-rtos) GitHub
 organization welcomes everyone to develop and discuss eCos in a more modern way.
 
 # Legacy of eCos
