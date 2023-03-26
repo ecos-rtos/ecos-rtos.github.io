@@ -7,9 +7,12 @@ organization welcomes everyone to develop and discuss eCos in a more modern way.
 
 # Legacy of eCos
 
-The following projects are descendants of eCos (contributions to this list are welcome!):
+The following projects are descendants of eCos:
 
 * [eCos 3.0 RTOS, with Xiilinx Zynq and NXP Vybrid support and other additions](https://github.com/antmicro/ecos)
 * [eCos 3.0 RTOS port for Enclustra's Mars ZX3 Zynq module](https://github.com/antmicro/ecos-mars-zx3)
 * [RedBoot for KaRo TX COM modules](https://git.karo-electronics.de/?p=karo-tx-redboot.git;a=summary)
+* [ECos for Toradex Colibri VF61 Freescale Vybrid CoM](https://ecos-for-toradex-colibri-vf61-vybrid-module.readthedocs.io/en/latest/)
 *
+* Contributions to this list are welcome!
+
